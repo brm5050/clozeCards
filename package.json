@@ -1,0 +1,28 @@
+{
+  "name": "license",
+  "version": "1.0.0",
+  "description": "card generator",
+  "main": "ClozeCard.js",
+  "dependencies": {
+    "inquire": "^0.4.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brm5050/clozeCards.git"
+  },
+  "keywords": [
+    "flash",
+    "card",
+    "generator"
+  ],
+  "author": "bryan modula",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brm5050/clozeCards/issues"
+  },
+  "homepage": "https://github.com/brm5050/clozeCards#readme"
+}
